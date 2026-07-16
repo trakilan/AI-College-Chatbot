@@ -79,13 +79,13 @@ AI-College-Chatbot/
 
 Home Page
 
-![Home Page](screenshots/home.png)
+![Home Page](backend/screenshots/home.png)
 
 ---
 
 Chatbot Conversation
 
-![Chatbot](screenshots/conversation.png)
+![Chatbot](backend/screenshots/conversation.png)
 
 
 
