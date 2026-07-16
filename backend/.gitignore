@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual Environment
+venv/
+backend/venv/
+
+# Chroma Database
+backend/database/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
